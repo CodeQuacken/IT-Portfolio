@@ -1,5 +1,7 @@
 # Amanda Sundberg
-IT Support | Software Development | CyberSecurity ## Current Focus
+IT Support | Software Development | CyberSecurity 
+
+## Current Focus
 - Active Directory
 - Microsoft 365
 - PowerShell
