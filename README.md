@@ -8,7 +8,8 @@ IT Support | Software Development | CyberSecurity
 - Azure
 - Automation
 ## Projects
-###The Indie Net
+### The Indie Net
+
 **Status** In Development 
 
 A browser-based point-and-click discovery adventure that helps visitors explore the forgotten, hidden, creative and unusual websites through interactive enviornments
